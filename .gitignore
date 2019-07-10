@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Code development files
+ownpl/demo.py
+ownpl/demofile.txt
+
 # C extensions
 *.so
 
